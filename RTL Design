@@ -70,3 +70,4 @@ module alu (result, x_bit, z_bit, reset, clk, a, b, opcode);
   endcase
        end //]
   end
+  endmodule                                                                       
